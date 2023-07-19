@@ -44,6 +44,11 @@ const LeftBar = () => {
         })}
       </Box>
 
+      {/* <Text display={"flex"} textColor={"white"} textAlign={"center"}>
+          Copyright © 2023 OsmanKagan<br />
+          Tüm hakları saklıdır.
+        </Text> */}
+
     </Box>
   )
 }
