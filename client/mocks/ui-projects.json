@@ -1,0 +1,66 @@
+[
+    {
+        "id": 0,
+        "name": "Chat App",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/chat-app.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 1,
+        "name": "Desert Store App",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/desert-store-app.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 2,
+        "name": "Music App",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/music-app.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 3,
+        "name": "Nft Marketplace",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/nft-marketplace.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 4,
+        "name": "Nike Store App",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/nike-store-app.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 5,
+        "name": "Portfolio Website",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/portfolio-website.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 6,
+        "name": "Rent a Car App",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/rent-a-car-app.png",
+        "socialLink": "",
+        "button": "Behance"
+    },
+    {
+        "id": 7,
+        "name": "Watch Store App",
+        "description": "Lorem ipsum dolor Lorem ipsum dolor ",
+        "url": "/ui-projects/watch-store-app.png",
+        "socialLink": "",
+        "button": "Behance"
+    }
+]
