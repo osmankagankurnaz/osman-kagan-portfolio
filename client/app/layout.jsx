@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
       <head />
       <body className={roboto.className}>
         <Providers>
-          <Box display={"flex"} flexDir={"row"}>
+          <Box display={"flex"} >
             <LeftBar />
             <Box w={"80vw"} h={"100vh"} bg={"#1F1F1F"} overflow={"auto"}>
               {children}
