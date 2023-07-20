@@ -28,7 +28,7 @@ const Items = [
 
 const LeftBar = () => {
   return (
-    <Box w={"20vw"} h={"100vh"} bg={"#131313"} p={"2rem"} >
+    <Box display={"flex"} flexDir={"column"} w={"20vw"} h={"100vh"} bg={"#131313"} p={"2rem"} >
       <Text fontWeight={"semibold"} fontSize={"2rem"} textColor={"white"} mb={"2.5rem"}>OsmanKagan.</Text>
       <Box ml={"1.25rem"}>
         {Items.map((item) => {
@@ -43,10 +43,13 @@ const LeftBar = () => {
           )
         })}
       </Box>
-      <Text display={"flex"} textColor={"white"} textAlign={"center"} justifyItems={"flex-end"}>
+      <Box display={"flex"} justifySelf={"flex-end"} mt={"auto"}>
+        <Text textColor={"white"} textAlign={"center"} >
           Copyright © 2023 OsmanKagan<br />
           Tüm hakları saklıdır.
         </Text>
+      </Box>
+
     </Box>
   )
 }
