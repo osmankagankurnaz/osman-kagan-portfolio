@@ -4,7 +4,7 @@
         "name": "Phone Book App",
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/software-projects/phone-book-app.png",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/phone-book-app-with-react",
         "button": "Github"
     },
     {
@@ -12,7 +12,7 @@
         "name": "Izzy Health Landing Page",
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/software-projects/izzy-health.png",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/izzyhealth-landing-page",
         "button": "Github"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Hoobank Landing Page",
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/software-projects/hoobank.png",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/hoobank-landing-page",
         "button": "Github"
     },
     {
@@ -28,7 +28,7 @@
         "name": "Reverse Word Write Game",
         "description": "Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/software-projects/reverse-word-write.png",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/reverse-word-writing-game",
         "button": "Github"
     },
     {
@@ -36,7 +36,7 @@
         "name": "Portfolio Website",
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/software-projects/portfolio-website.png",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/osman-kagan-portfolio",
         "button": "Github"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Blogify",
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/blogify-mern-stack-website",
         "button": "Github"
     },
     {
@@ -52,15 +52,7 @@
         "name": "Post App",
         "description": "Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "",
-        "socialLink": "",
-        "button": "Github"
-    },
-    {
-        "id": 6,
-        "name": "Share Combin",
-        "description": "Lorem ipsum dolor Lorem ipsum dolor ",
-        "url": "/software-projects/share-combin.png",
-        "socialLink": "",
+        "socialLink": "https://github.com/OsmanKaganKurnaz/post-app-with-mern",
         "button": "Github"
     }
 ]

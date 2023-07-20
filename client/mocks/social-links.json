@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/osmankagankurnaz/",
+        "icon": "/social-media-icons/linkedin.png"
+    },
+    {
+        "id": 1,
+        "name": "github",
+        "link": "https://github.com/OsmanKaganKurnaz",
+        "icon": "/social-media-icons/github.png"
+    },
+    {
+        "id": 2,
+        "name": "behance",
+        "link": "https://www.behance.net/osmankagankurnaz",
+        "icon": "/social-media-icons/behance.png"
+    },
+    {
+        "id": 3,
+        "name": "dribbble",
+        "link": "https://dribbble.com/osmankagankurnaz",
+        "icon": "/social-media-icons/dribbble.png"
+    },
+    {
+        "id": 4,
+        "name": "pinterest",
+        "link": "https://tr.pinterest.com/osmankagankurnaz/",
+        "icon": "/social-media-icons/pinterest.png"
+    },
+    {
+        "id": 5,
+        "name": "medium",
+        "link": "https://medium.com/@osmankagankurnaz",
+        "icon": "/social-media-icons/medium.png"
+    }
+]
