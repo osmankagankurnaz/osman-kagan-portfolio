@@ -3,9 +3,9 @@ import Link from 'next/link'
 import React from 'react'
 import '@/styles/global.css';
 
-const ProjectsCard = ({ item }) => {
+const ProjectsCard = ({ item, index }) => {
   return (
-    <Box role='group'>
+    <Box role='group' key={index}>
       <Box id='card' h={"26rem"} p={"1rem"} gap={"1.25rem"} _groupHover={{ borderColor: '#FB42D3', transition: 'all .3s' }} display={"flex"} flexDir={"column"} bg={"#131313"} borderRadius={"20px"} border={"1px solid"} borderColor={"#A047FA"} mb={"2rem"} >
         <Box _groupHover={{ borderColor: '#FB42D3', transition: 'all .3s' }} borderRadius={"10px"} border={"1px solid"} borderColor={"#A047FA"} overflow={"hidden"} alignSelf={"center"}>
           <Image w={"16rem"} h={"10rem"} src={item.url} objectFit={"cover"} fallbackSrc={"/coming-soon.png"} />

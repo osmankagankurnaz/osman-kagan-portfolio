@@ -4,6 +4,7 @@ import React from 'react'
 import "@/styles/global.css";
 import Link from 'next/link';
 import SocialMediaDatas from "@/mocks/social-links.json"
+import { motion } from "framer-motion"
 
 const GettingStarted = () => {
   return (

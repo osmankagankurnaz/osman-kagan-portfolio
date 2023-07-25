@@ -5,7 +5,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/chat-app.png",
         "socialLink": "https://www.behance.net/gallery/158621139/Messenger-App",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 1,
@@ -13,7 +13,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/desert-store-app.png",
         "socialLink": "https://www.behance.net/gallery/149252997/Dessert-Store-App",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/music-app.png",
         "socialLink": "https://www.behance.net/gallery/159757313/Music-Player-App",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 3,
@@ -29,7 +29,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/nft-marketplace.png",
         "socialLink": "",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/nike-store-app.png",
         "socialLink": "https://www.behance.net/gallery/149172349/Nike-Store-App-(Dark-Light-Mode)",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 5,
@@ -45,7 +45,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/portfolio-website.png",
         "socialLink": "",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 6,
@@ -53,7 +53,7 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/rent-a-car-app.png",
         "socialLink": "https://www.behance.net/gallery/149246653/Rent-a-Car-App",
-        "button": "Behance"
+        "button": "Design"
     },
     {
         "id": 7,
@@ -61,6 +61,6 @@
         "description": "Lorem ipsum dolor Lorem ipsum dolor ",
         "url": "/ui-projects/watch-store-app.png",
         "socialLink": "https://www.behance.net/gallery/149246451/Watch-Store-App",
-        "button": "Behance"
+        "button": "Design"
     }
 ]
