@@ -15,7 +15,7 @@ const ProjectsCard = ({ item, index }) => {
           <Text color={"white"}>{item.description}</Text>
         </Box>
         <Button mt={"auto"} _groupHover={{ bg: '#FB42D3', transition: 'all .3s' }} bg={"#A047FA"} textColor={"white"} size={"sm"} justifySelf={"flex-end"}>
-          <Link href={item.socialLink} >
+          <Link href={item.socialLink} target='_blank' >
             {item.button}
           </Link>
         </Button>
