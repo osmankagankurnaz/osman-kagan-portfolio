@@ -5,6 +5,7 @@ import LeftBar from '@/components/LeftBar';
 import { Box, useMediaQuery, Text } from '@chakra-ui/react';
 import { Roboto } from "@next/font/google"
 import { motion } from "framer-motion"
+import { Analytics } from '@vercel/analytics/react';
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -28,6 +29,7 @@ export default function RootLayout({ children }) {
             </Box>
           </Box>
         </Providers>
+        <Analytics/>
       </body>
     </html>
   )
