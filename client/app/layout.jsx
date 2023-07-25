@@ -2,9 +2,8 @@
 import React from 'react'
 import { Providers } from './providers';
 import LeftBar from '@/components/LeftBar';
-import { Box, useMediaQuery, Text } from '@chakra-ui/react';
-import { Roboto } from "@next/font/google"
-import { motion } from "framer-motion"
+import { Box } from '@chakra-ui/react';
+import { Roboto } from "next/font/google"
 import { Analytics } from '@vercel/analytics/react';
 
 const roboto = Roboto({
@@ -13,10 +12,6 @@ const roboto = Roboto({
 })
 
 export default function RootLayout({ children }) {
-  const [isLargerThan1280] = useMediaQuery('(min-width: 1280px)', {
-    fallback: false,
-    ssr: true
-  })
   return (
     <html lang="tr">
       <head />
@@ -29,7 +24,7 @@ export default function RootLayout({ children }) {
             </Box>
           </Box>
         </Providers>
-        <Analytics/>
+        <Analytics />
       </body>
     </html>
   )

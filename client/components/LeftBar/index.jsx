@@ -1,5 +1,5 @@
 "use client"
-import { Box, Text } from '@chakra-ui/react'
+import { Box, Button, Image, Text } from '@chakra-ui/react'
 import Link from 'next/link'
 import React from 'react'
 
@@ -43,13 +43,15 @@ const LeftBar = () => {
           )
         })}
       </Box>
-      <Box display={"flex"} justifySelf={"flex-end"} mt={"auto"}>
+      <Box display={"flex"} flexDir={"column"} gap={"1rem"} justifySelf={"flex-end"} mt={"auto"}>
+        <Link href={"https://www.buymeacoffee.com/osmankagankurnaz"}>
+          <Image src='/buy-a-coffee.svg' />
+        </Link>
         <Text textColor={"white"} textAlign={"center"} >
           Copyright © 2023 OsmanKagan<br />
           Tüm hakları saklıdır.
         </Text>
       </Box>
-
     </Box>
   )
 }
