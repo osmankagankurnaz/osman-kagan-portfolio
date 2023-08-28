@@ -25,11 +25,7 @@ const GettingStarted = () => {
           }
           )}
         </Box>
-        <Link href={""}>
-          <Button textColor={"white"} bg={"transparent"} border={"1px solid"} borderColor={"white"} _hover={{ textColor: "#1F1F1F", bg: "white" }}>
-            Download CV
-          </Button>
-        </Link>
+       
       </Box>
       <Box overflow={"hidden"} borderRadius={"10rem"} w={"28rem"} h={"42rem"} border={"2px solid"} borderColor={"white"} >
           <Image src={"/profile.png"} />
