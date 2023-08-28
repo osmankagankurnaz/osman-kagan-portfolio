@@ -62,7 +62,7 @@ export default function WithAction() {
   
   return (
     <>
-      <Box bg={"#131313"} px={4}  w={"full"}  display={{base:"flex",md:"none"}}  flexDirection={"column"} position={"block"} >
+      <Box bg={"#131313"} px={4}  w={"full"} zIndex={40} display={{base:"flex",md:"none"}}  flexDirection={"column"} position={"absolute"} style={{top:"0px"}} >
         <Flex h={20} alignItems={'center'} justifyContent={'space-between'}>
          
           <HStack spacing={8} alignItems={'center'}>
