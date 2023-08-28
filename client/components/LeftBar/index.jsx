@@ -28,7 +28,7 @@ const Items = [
 
 const LeftBar = () => {
   return (
-    <Box display={"flex"} flexDir={"column"} w={"20vw"} h={"100vh"} bg={"#131313"} p={"2rem"} >
+    <Box display={{base:"none",md:"flex"}} flexDir={"column"} w={"20vw"} h={"100vh"} bg={"#131313"} p={"2rem"} >
       <Text fontWeight={"semibold"} fontSize={"2rem"} textColor={"white"} mb={"2.5rem"}>OsmanKagan.</Text>
       <Box ml={"1.25rem"}>
         {Items.map((item) => {
@@ -57,3 +57,4 @@ const LeftBar = () => {
 }
 
 export default LeftBar
+
