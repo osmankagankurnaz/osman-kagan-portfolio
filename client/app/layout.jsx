@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
           <Box display={"flex"} flexDirection={{base:"column",md:"row"}} >
             <LeftBar />
             <Topbar/>
-            <Box w={{base:"full",md:"80vw"}} h={"100vh"} bg={"#1F1F1F"} overflowY={"auto"}>
+            <Box w={{base:"full",md:"80vw"}} h={"100vh"} bg={"#1F1F1F"} pt={{base:20,md:0}} pb={{base:10,md:0}} overflowY={"auto"}>
               {children}
             </Box>
           </Box>
